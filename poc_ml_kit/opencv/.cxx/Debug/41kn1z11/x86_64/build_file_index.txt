@@ -1,1 +1,1 @@
-C:\_workspace\_android\poc_ml_kit\opencv\libcxx_helper\CMakeLists.txt
+C:\_workspace\_android\trabalho_graduacao_info\poc_ml_kit\opencv\libcxx_helper\CMakeLists.txt

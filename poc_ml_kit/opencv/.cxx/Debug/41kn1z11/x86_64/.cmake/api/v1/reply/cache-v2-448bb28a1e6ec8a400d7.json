@@ -163,7 +163,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/_workspace/_android/poc_ml_kit/opencv/.cxx/Debug/41kn1z11/x86_64"
+			"value" : "c:/_workspace/_android/trabalho_graduacao_info/poc_ml_kit/opencv/.cxx/Debug/41kn1z11/x86_64"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -715,7 +715,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/_workspace/_android/poc_ml_kit/opencv/libcxx_helper"
+			"value" : "C:/_workspace/_android/trabalho_graduacao_info/poc_ml_kit/opencv/libcxx_helper"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -751,7 +751,7 @@
 				}
 			],
 			"type" : "UNINITIALIZED",
-			"value" : "C:\\_workspace\\_android\\poc_ml_kit\\opencv\\build\\intermediates\\cxx\\Debug\\41kn1z11\\obj\\x86_64"
+			"value" : "C:\\_workspace\\_android\\trabalho_graduacao_info\\poc_ml_kit\\opencv\\build\\intermediates\\cxx\\Debug\\41kn1z11\\obj\\x86_64"
 		},
 		{
 			"name" : "CMAKE_LINKER",
@@ -1023,7 +1023,7 @@
 				}
 			],
 			"type" : "UNINITIALIZED",
-			"value" : "C:\\_workspace\\_android\\poc_ml_kit\\opencv\\build\\intermediates\\cxx\\Debug\\41kn1z11\\obj\\x86_64"
+			"value" : "C:\\_workspace\\_android\\trabalho_graduacao_info\\poc_ml_kit\\opencv\\build\\intermediates\\cxx\\Debug\\41kn1z11\\obj\\x86_64"
 		},
 		{
 			"name" : "CMAKE_SHARED_LINKER_FLAGS",
@@ -1295,7 +1295,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/_workspace/_android/poc_ml_kit/opencv/.cxx/Debug/41kn1z11/x86_64"
+			"value" : "C:/_workspace/_android/trabalho_graduacao_info/poc_ml_kit/opencv/.cxx/Debug/41kn1z11/x86_64"
 		},
 		{
 			"name" : "opencv_jni_shared_IS_TOP_LEVEL",
@@ -1319,7 +1319,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/_workspace/_android/poc_ml_kit/opencv/libcxx_helper"
+			"value" : "C:/_workspace/_android/trabalho_graduacao_info/poc_ml_kit/opencv/libcxx_helper"
 		}
 	],
 	"kind" : "cache",

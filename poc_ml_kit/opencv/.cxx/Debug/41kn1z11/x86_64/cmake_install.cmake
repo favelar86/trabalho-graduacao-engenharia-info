@@ -1,4 +1,4 @@
-# Install script for directory: C:/_workspace/_android/poc_ml_kit/opencv/libcxx_helper
+# Install script for directory: C:/_workspace/_android/trabalho_graduacao_info/poc_ml_kit/opencv/libcxx_helper
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/_workspace/_android/poc_ml_kit/opencv/.cxx/Debug/41kn1z11/x86_64/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/_workspace/_android/trabalho_graduacao_info/poc_ml_kit/opencv/.cxx/Debug/41kn1z11/x86_64/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

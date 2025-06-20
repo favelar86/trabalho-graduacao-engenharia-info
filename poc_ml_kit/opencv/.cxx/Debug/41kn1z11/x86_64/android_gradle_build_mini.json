@@ -1,26 +1,26 @@
 {
   "buildFiles": [
-    "C:\\_workspace\\_android\\poc_ml_kit\\opencv\\libcxx_helper\\CMakeLists.txt"
+    "C:\\_workspace\\_android\\trabalho_graduacao_info\\poc_ml_kit\\opencv\\libcxx_helper\\CMakeLists.txt"
   ],
   "cleanCommandsComponents": [
     [
       "C:\\Users\\Fabiano\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
       "-C",
-      "C:\\_workspace\\_android\\poc_ml_kit\\opencv\\.cxx\\Debug\\41kn1z11\\x86_64",
+      "C:\\_workspace\\_android\\trabalho_graduacao_info\\poc_ml_kit\\opencv\\.cxx\\Debug\\41kn1z11\\x86_64",
       "clean"
     ]
   ],
   "buildTargetsCommandComponents": [
     "C:\\Users\\Fabiano\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
     "-C",
-    "C:\\_workspace\\_android\\poc_ml_kit\\opencv\\.cxx\\Debug\\41kn1z11\\x86_64",
+    "C:\\_workspace\\_android\\trabalho_graduacao_info\\poc_ml_kit\\opencv\\.cxx\\Debug\\41kn1z11\\x86_64",
     "{LIST_OF_TARGETS_TO_BUILD}"
   ],
   "libraries": {
     "opencv_jni_shared::@6890427a1f51a3e7e1df": {
       "artifactName": "opencv_jni_shared",
       "abi": "x86_64",
-      "output": "C:\\_workspace\\_android\\poc_ml_kit\\opencv\\.cxx\\Debug\\41kn1z11\\x86_64\\libopencv_jni_shared.a",
+      "output": "C:\\_workspace\\_android\\trabalho_graduacao_info\\poc_ml_kit\\opencv\\.cxx\\Debug\\41kn1z11\\x86_64\\libopencv_jni_shared.a",
       "runtimeFiles": []
     }
   }

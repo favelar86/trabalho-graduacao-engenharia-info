@@ -1,5 +1,5 @@
 {
-  "installationFolder": "C:\\_workspace\\_android\\poc_ml_kit\\opencv\\build\\intermediates\\prefab_package\\release\\prefab",
+  "installationFolder": "C:\\_workspace\\_android\\trabalho_graduacao_info\\poc_ml_kit\\opencv\\build\\intermediates\\prefab_package\\release\\prefab",
   "gradlePath": ":opencv",
   "packageInfo": {
     "packageName": "opencv",
@@ -8,7 +8,7 @@
     "modules": [
       {
         "moduleName": "opencv_jni_shared",
-        "moduleHeaders": "C:\\_workspace\\_android\\poc_ml_kit\\opencv\\native\\jni\\include",
+        "moduleHeaders": "C:\\_workspace\\_android\\trabalho_graduacao_info\\poc_ml_kit\\opencv\\native\\jni\\include",
         "moduleExportLibraries": [],
         "abis": []
       }
