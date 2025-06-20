@@ -1,0 +1,3 @@
+C:/_workspace/_android/poc_ml_kit/opencv/.cxx/Debug/41kn1z11/arm64-v8a/CMakeFiles/opencv_jni_shared.dir
+C:/_workspace/_android/poc_ml_kit/opencv/.cxx/Debug/41kn1z11/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/_workspace/_android/poc_ml_kit/opencv/.cxx/Debug/41kn1z11/arm64-v8a/CMakeFiles/rebuild_cache.dir

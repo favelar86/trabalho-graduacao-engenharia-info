@@ -1,0 +1,1 @@
+C:\_workspace\_android\poc_ml_kit\opencv\build\intermediates\cxx\RelWithDebInfo\6h3c5212\obj\x86
